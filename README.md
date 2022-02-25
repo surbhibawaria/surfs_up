@@ -14,13 +14,11 @@ The date column of the Measurements table in the _hawaii.sqlite_ database is fil
 
 ## Results
 
-The three key differences in weather between June and December:
-
 ### June vs December Weather Statistics
 
 <img width="170" alt="June_Temps" src="https://user-images.githubusercontent.com/95826875/155650016-12e9642e-dfca-4efa-b19a-970f838a68c2.png"><img width="219" alt="December_Temps" src="https://user-images.githubusercontent.com/95826875/155650262-ce06f6be-af41-4f3c-abc2-28cc4845191c.png">
 
-
+The key differences in weather between June and December:
 
 ## Summary:
 
