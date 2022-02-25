@@ -10,20 +10,15 @@ The purpose of this analysis is to analyse temperature trends before opening the
 
 ### Analysis
 
-The date column of the Measurements table in the hawaii.sqlite database is filtered to retrieve all the temperatures for the month of June and December individually. Then those temperatures are converted to list, then DataFrame is created from the list, and the summary statistics are generated for both the months individually.
+The date column of the Measurements table in the _hawaii.sqlite_ database is filtered to retrieve all the temperatures for the month of June and December individually. Then those temperatures are converted to list, then DataFrame is created from the list, and the summary statistics are generated for both the months individually.
 
 ## Results
 
 The three key differences in weather between June and December:
 
-### June Weather Statistics
+### June vs December Weather Statistics
 
-<img width="170" alt="June_Temps" src="https://user-images.githubusercontent.com/95826875/155650016-12e9642e-dfca-4efa-b19a-970f838a68c2.png">
-
-
-### December Weather Statistics
-
-<img width="219" alt="December_Temps" src="https://user-images.githubusercontent.com/95826875/155650054-480bfd11-e294-4176-97d9-c4c851229bb5.png">
+<img width="170" alt="June_Temps" src="https://user-images.githubusercontent.com/95826875/155650016-12e9642e-dfca-4efa-b19a-970f838a68c2.png"><img width="219" alt="December_Temps" src="https://user-images.githubusercontent.com/95826875/155650262-ce06f6be-af41-4f3c-abc2-28cc4845191c.png">
 
 
 
