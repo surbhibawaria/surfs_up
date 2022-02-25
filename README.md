@@ -2,7 +2,7 @@
 
 ## Overview
 
-To open a Surf n' Shake shop serving surfboards and ice creams to locals and tourist in Oahu, Hawaii, there is a need of investor backing. W. Avy is an investor who is famous for his love of surfing. But he is concerned about the weather and want to run some analytics on weather dataset.
+To open a Surf n' Shake shop which will serve surfboards and ice creams to locals and tourist in Oahu, Hawaii, there is a need of investor. W. Avy is an investor who is famous for his love of surfing. But he is concerned about the weather and want to run some analytics on weather dataset.
 
 ### Purpose
 
