@@ -21,11 +21,11 @@ The date column of the Measurements table in the _hawaii.sqlite_ database is fil
 The key differences in weather between June and December:
 
 - The mean recorded temperature in June is 74.9 (~75) degrees F, whereas the mean recorded temperature in December is 71 degrees F. Which suggest that June is definitely going to attract more customers.
-- 
+
 - June's maximum temperature is 85 degrees F and December's maximum temperature is 83 degrees F, which does not show much of a difference concluding that the weather on Oahu is quite consistent year-around.
 
-- The minimum temperatures has potential drop to 64 degrees F and 56 degrees F for June and December respectively, which is quite chilly. However, looking at the mean temperatures and standard deviation of 3.2 and 3.4 the temperatures seems to be more steady.
+- The minimum temperatures has potential drop to 64 degrees F and 56 degrees F for June and December respectively, which is quite chilly. However, looking at the mean temperatures and standard deviation of 3.2 and 3.4 the temperatures seems to be more steady and in favor of the shop.
 
 ## Summary:
 
-
+After analysing the June and December weather data, it seems that Surf & Ice Cream Shop would do well in Oahu. The weather on Oahu seems quite steady all year, therefore if the temperatures for these two months favors the Surf & Ice Cream Shop, it will do so all year. Despite the fact that temperatures in December appear to be vary, December would still provide suitable weather for both surfing and ice cream demand.
