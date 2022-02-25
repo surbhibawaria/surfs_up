@@ -24,7 +24,7 @@ The key differences in weather between June and December:
 
 - June's maximum temperature is 85 degrees F and December's maximum temperature is 83 degrees F, which does not show much of a difference concluding that the weather on Oahu is quite consistent year-around.
 
-- The minimum temperatures has potential drop to 64 degrees F and 56 degrees F for June and December respectively, which is quite chilly in December for having ice cream. However, looking at the mean temperatures and standard deviation of 3.7 the temperatures seems to be more steady and in favor of the shop.
+- The minimum temperatures has potential drop to 64 degrees F and 56 degrees F for June and December respectively, which is quite chilly in December for having ice cream. However, looking at the mean temperatures and standard deviation of 3.7, the temperatures seems to be more steady and in favor of the shop.
 
 ## Summary:
 
