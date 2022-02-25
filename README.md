@@ -28,7 +28,7 @@ The key differences in weather between June and December:
 
 ## Summary:
 
-After analysing the June and December weather data, it seems that Surf & Ice Cream Shop would do well in Oahu. The weather on Oahu seems quite steady all year, therefore if the temperatures for these two months favors the Surf & Ice Cream Shop, it will do so all year. Despite the fact that temperatures in December appear to be vary, it would still provide suitable weather for both surfing and ice cream demand. But it is always better to analyse little deeper and find more supportive data. For that more analysis can be done by performing further queries:
+After analysing the June and December weather data, it seems that Surf & Ice Cream Shop would do well in Oahu. The weather on Oahu seems quite steady all year, therefore if the temperatures for these two months favors the Surf & Ice Cream Shop, it will do so all year. Despite the fact that temperatures in December appear to be vary, it would still provide suitable weather for both surfing and ice cream demand. But it is always better to analyse little deeper and find more supportive data. In order to do so, more queries should be performed:
 
 ### Query 1: Precipitation statistics for June
 
