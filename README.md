@@ -20,11 +20,12 @@ The date column of the Measurements table in the _hawaii.sqlite_ database is fil
 
 The key differences in weather between June and December:
 
-- The mean recorded temperature in June is 74.9 (~75) degrees F, whereas the mean recorded temperature in December is 71 degrees F. Hence, the mean temperature for June is higher than the mean temperature for December by 5 degrees F.
-
+- The mean recorded temperature in June is 74.9 (~75) degrees F, whereas the mean recorded temperature in December is 71 degrees F. Which suggest that June is definitely going to attract more customers.
+- 
 - June's maximum temperature is 85 degrees F and December's maximum temperature is 83 degrees F, which does not show much of a difference concluding that the weather on Oahu is quite consistent year-around.
 
 - The minimum temperatures has potential drop to 64 degrees F and 56 degrees F for June and December respectively, which is quite chilly. However, looking at the mean temperatures and standard deviation of 3.2 and 3.4 the temperatures seems to be more steady.
 
 ## Summary:
+
 
